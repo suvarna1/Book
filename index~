@@ -1,6 +1,6 @@
 <h1>Books#index</h1>
 <p>Find me in app/views/books/index.html.erb</p>
-<h1>Books</h1>
+<h2>Books</h2>
 <div id="container">
  <div id="addbox" style="margin-left: 8em;margin-right: 10m; background-color: pink;">
   <h3 style="text_align:center;"> Add a book</h3>
